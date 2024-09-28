@@ -61,6 +61,8 @@ Here's a sample README file for your malware detection tool that utilizes YARA r
 
 markdown
 
+## Screenshots
+
 
 ## Usage
 Run the application:
