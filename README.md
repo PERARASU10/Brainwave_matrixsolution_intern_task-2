@@ -38,7 +38,7 @@ You can install the required packages using pip:
 pip install yara-python requests pefile ssdeep pandas
 ```
 
-##Installation
+## Installation
 
 1. Clone this repository to your local machine:
     ```
@@ -60,7 +60,7 @@ Here's a sample README file for your malware detection tool that utilizes YARA r
 markdown
 
 
-##Usage
+## Usage
 
     Run the application:
 
@@ -76,7 +76,7 @@ markdown
 
     Once the scan is complete, results will be displayed in a message box.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
@@ -87,7 +87,6 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
     git checkout -b feature/YourFeature
     ```
 Commit your changes:
-
   ```
   git commit -m "Add some feature"
   ```
