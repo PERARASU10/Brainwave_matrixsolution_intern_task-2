@@ -63,6 +63,11 @@ Here's a sample README file for your malware detection tool that utilizes YARA r
 markdown
 
 ## Screenshots
+file:///home/blackrock/Pictures/Screenshots/Screenshot from 2024-09-28 21-48-29.png![image](https://github.com/user-attachments/assets/49bd70a3-9695-4706-bde6-d0cc215bd849)
+
+file:///home/blackrock/Pictures/Screenshots/Screenshot from 2024-09-28 21-48-43.png![image](https://github.com/user-attachments/assets/f42af783-92aa-4e52-a916-7347dd4d546e)
+
+file:///home/blackrock/Pictures/Screenshots/Screenshot from 2024-09-28 21-49-12.png![image](https://github.com/user-attachments/assets/37e01d8d-ef5c-4a13-8c16-5f59c0b1f967)
 
 
 ## Usage
