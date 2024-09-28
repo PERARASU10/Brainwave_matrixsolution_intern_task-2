@@ -66,18 +66,18 @@ markdown
 Run the application:
 
     ```
-    python malware_detection_tool.py
+        python malware_detection_tool.py
     ```
     
 Click the "Browse" button to select an executable file (.exe) for scanning.
 
 The tool will perform:
 
-        YARA rule scanning
+       YARA rule scanning
         
-        VirusTotal hash-checking
+       VirusTotal hash-checking
         
-        Heuristic checks (such as file size)
+       Heuristic checks (such as file size)
 
 Once the scan is complete, results will be displayed in a message box.
 
@@ -88,7 +88,8 @@ Fork the repository.
 Create your feature branch:
 
     ```
-    git checkout -b feature/YourFeature
+        git checkout -b feature/YourFeature
+  
     ```
 Commit your changes:
   ```
