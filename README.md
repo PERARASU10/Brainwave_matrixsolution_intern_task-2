@@ -41,9 +41,11 @@ pip install yara-python requests pefile ssdeep pandas
 ## Installation
 
 1. Clone this repository to your local machine:
+ 
     ```
     git clone https://github.com/PERARASU10/Brainwave_matrixsolution_intern_task-2.git
     ```
+    
 2. Navigate to the project directory:
     ```
       cd Brainwave_matrixsolution_intern_task-2
@@ -62,14 +64,19 @@ markdown
 
 ## Usage
 Run the application:
+
     ```
     python malware_detection_tool.py
     ```
+    
 Click the "Browse" button to select an executable file (.exe) for scanning.
 
 The tool will perform:
+
         YARA rule scanning
+        
         VirusTotal hash-checking
+        
         Heuristic checks (such as file size)
 
 Once the scan is complete, results will be displayed in a message box.
