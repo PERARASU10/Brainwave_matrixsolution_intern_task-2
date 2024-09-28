@@ -10,6 +10,7 @@ A simple and efficient malware detection tool that combines YARA rules, VirusTot
   - [Requirements](#requirements)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Screenshots](#Screenshots)
   - [Contributing](#contributing)
 
 
