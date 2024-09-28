@@ -66,11 +66,9 @@ markdown
 
 ## Usage
 Run the application:
-
-    ```
+```
         python malware_detection_tool.py
-    ```
-    
+``` 
 Click the "Browse" button to select an executable file (.exe) for scanning.
 
 The tool will perform:
@@ -89,10 +87,9 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 Fork the repository.
 Create your feature branch:
 
-    ```
+```
         git checkout -b feature/YourFeature
-  
-    ```
+```
 Commit your changes:
   ```
   git commit -m "Add some feature"
