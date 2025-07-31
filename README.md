@@ -1,5 +1,3 @@
-# Brainwave_matrixsolution_intern_task-2
-
 # Malware Detection Tool
 
 A simple and efficient malware detection tool that combines YARA rules, VirusTotal database queries, and heuristic checks to analyze executable files for potential malware threats. This tool is designed for both security professionals and enthusiasts who want to explore malware detection techniques.
